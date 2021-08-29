@@ -34,6 +34,6 @@ Download the latest stable Linux kernel from kernel.org, compile it, and dual bo
        $ sudo make install
 
  
-7.Update the GRUB
+7. Update the GRUB
 
        $ sudo update-grub
