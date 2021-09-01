@@ -6,7 +6,7 @@ Download the latest stable Linux kernel from kernel.org, compile it, and dual bo
 
        $ wget https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.13.13.tar.xz
 
-2. Deconpress the archive
+2. Decompress the archive
 
        $ tar -xf linux-5.13.13.tar.xz
 
